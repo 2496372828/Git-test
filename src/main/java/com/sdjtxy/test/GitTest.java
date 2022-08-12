@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hot-fix 分支---");
         System.out.println("hot-fix 分支二");
         System.out.println("master分支 修改1");
+        System.out.println("这是我的hot-fix 修改3");
     }
 }
