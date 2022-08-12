@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("master分支 修改1");
         System.out.println("这是我的hot-fix 修改3");
         System.out.println("push -test ......");
+        
+        System.out.println("拉取代码-pull-test");
     }
 }
